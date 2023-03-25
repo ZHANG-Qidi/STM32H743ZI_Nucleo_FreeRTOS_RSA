@@ -2,8 +2,8 @@
 ** Require
 *** Hardware
 - NUCLEO-H743ZI
-  STM32 Nucleo-144 development board with STM32H743ZI MCU, supports Arduino, ST Zio and morpho connectivity
-  [[https://raw.githubusercontent.com/ZHANG-Qidi/STM32H743ZI_Nucleo_FreeRTOS_RSA/master/README/NUCLEO-H743ZI.png]]
+  - STM32 Nucleo-144 development board with STM32H743ZI MCU, supports Arduino, ST Zio and morpho connectivity
+    [[https://raw.githubusercontent.com/ZHANG-Qidi/STM32H743ZI_Nucleo_FreeRTOS_RSA/master/README/NUCLEO-H743ZI.png]]
 *** Software
 - STM32CubeIDE 1.11.2
 - STM32Cube_FW_H7_V1.9.1 (Auto download by STM32CubeIDE)
