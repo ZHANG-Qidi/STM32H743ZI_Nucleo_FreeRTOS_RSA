@@ -1,0 +1,4 @@
+../Core/func/usart_func.c:14:6:HAL_USART3_ENABLE_IT_IDLE_Receive_DMA	8	static
+../Core/func/usart_func.c:20:6:HAL_USART3_IdleCallback	32	static,ignoring_inline_asm
+../Core/func/usart_func.c:42:9:usart3_printf	32	static,ignoring_inline_asm
+../Core/func/usart_func.c:59:9:usart3_scanf	24	static
