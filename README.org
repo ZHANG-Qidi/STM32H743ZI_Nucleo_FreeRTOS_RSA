@@ -1,0 +1,19 @@
+* RSA on STM32
+** Require
+*** Hardware
+- NUCLEO-H743ZI
+  STM32 Nucleo-144 development board with STM32H743ZI MCU, supports Arduino, ST Zio and morpho connectivity
+  [[https://raw.githubusercontent.com/ZHANG-Qidi/STM32H743ZI_Nucleo_FreeRTOS_RSA/master/README/NUCLEO-H743ZI.png]]
+*** Software
+- STM32CubeIDE 1.11.2
+- STM32Cube_FW_H7_V1.9.1 (Auto download by STM32CubeIDE)
+** Function
+*** Random number generator
+- True random number generator (RNG) by STM32H743ZI
+  [[https://raw.githubusercontent.com/ZHANG-Qidi/STM32H743ZI_Nucleo_FreeRTOS_RSA/master/README/%E7%94%9F%E6%88%90%E9%9A%8F%E6%9C%BA%E6%95%B0%E4%B8%8E%E7%B4%A0%E6%95%B0%E6%A3%80%E6%B5%8B.png]]
+*** Miller–Rabin primality test
+- 256/512/1024 bit prime number for RSA
+  [[https://raw.githubusercontent.com/ZHANG-Qidi/STM32H743ZI_Nucleo_FreeRTOS_RSA/master/README/%E5%AF%86%E9%92%A5%E7%94%9F%E6%88%90%E5%AE%8C%E6%88%90.png]]
+*** RSA Algorithm
+- 256/512/1024 bit RSA Algorithm
+  [[https://raw.githubusercontent.com/ZHANG-Qidi/STM32H743ZI_Nucleo_FreeRTOS_RSA/master/README/RSA%E5%8A%A0%E5%AF%86%E8%A7%A3%E5%AF%86.png]]
